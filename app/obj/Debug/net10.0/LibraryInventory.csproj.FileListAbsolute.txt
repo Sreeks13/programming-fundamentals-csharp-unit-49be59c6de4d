@@ -1,0 +1,14 @@
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-49be59c6de4d\app\bin\Debug\net10.0\LibraryInventory.exe
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-49be59c6de4d\app\bin\Debug\net10.0\LibraryInventory.deps.json
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-49be59c6de4d\app\bin\Debug\net10.0\LibraryInventory.runtimeconfig.json
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-49be59c6de4d\app\bin\Debug\net10.0\LibraryInventory.dll
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-49be59c6de4d\app\bin\Debug\net10.0\LibraryInventory.pdb
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-49be59c6de4d\app\obj\Debug\net10.0\LibraryInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-49be59c6de4d\app\obj\Debug\net10.0\LibraryInventory.AssemblyInfoInputs.cache
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-49be59c6de4d\app\obj\Debug\net10.0\LibraryInventory.AssemblyInfo.cs
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-49be59c6de4d\app\obj\Debug\net10.0\LibraryInventory.csproj.CoreCompileInputs.cache
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-49be59c6de4d\app\obj\Debug\net10.0\LibraryInventory.dll
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-49be59c6de4d\app\obj\Debug\net10.0\refint\LibraryInventory.dll
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-49be59c6de4d\app\obj\Debug\net10.0\LibraryInventory.pdb
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-49be59c6de4d\app\obj\Debug\net10.0\LibraryInventory.genruntimeconfig.cache
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-49be59c6de4d\app\obj\Debug\net10.0\ref\LibraryInventory.dll
