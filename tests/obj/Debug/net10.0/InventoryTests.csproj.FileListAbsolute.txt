@@ -100,3 +100,4 @@ C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\progra
 C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-49be59c6de4d\tests\obj\Debug\net10.0\InventoryTests.genruntimeconfig.cache
 C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-49be59c6de4d\tests\obj\Debug\net10.0\ref\InventoryTests.dll
 C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-49be59c6de4d\tests\bin\Debug\net10.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-49be59c6de4d\tests\obj\Debug\net10.0\InventoryTests.sourcelink.json
